@@ -1,4 +1,4 @@
-# 🌥️ Master's Thesis – Large-Eddy Simulations of Stratocumulus Clouds at the Chilean Coast
+# Master's Thesis – Large-Eddy Simulations of Stratocumulus Clouds at the Chilean Coast
 
 **Author**: Alexander Pschera  
 **Institution**: University of Cologne  
@@ -26,7 +26,6 @@ Sensitivity studies on various model parameters (e.g. sea surface temperature, v
 | `02_Further_LWP_statistics.ipynb` | Analyzes liquid water path statistics from ICON-LES, UCLA-LES and microwave radiometer|
 | `05_Evaluate_divergence_runs.ipynb` | Investigates divergence parameters within UCLA-LES and its effect on ABL-height development over time|
 | `08_Hellinger_distance_from_IQQ...` | Applies distance metrics to model LWPs to find out how representative the site at Iquique is for the ICON model domain |
-| `10_Sensitivity_study_SST_and_other.ipynb` | Compares SST and turbulence parameter sensitivity |
 | ...and many more | See file names for topic-specific work |
 
 ---
