@@ -51,6 +51,12 @@ Sensitivity studies on various model parameters (e.g. sea surface temperature, v
 
 ---
 
+## Related Repositories
+
+- UCLA-LES main branch: https://github.com/uclales/uclales/tree/master
+
+---
+
 ## Notes
 
 - This repo reflects an academic research project and includes exploratory scripts.
